@@ -167,10 +167,10 @@ The application should be accessible at [http://localhost:8080](http://localhost
 
 ## ✍️ Authors
 
-Aditya Seth: Lead developer responsible for design, development, smart contracts, bug fixes, and system optimization.
-Aditi Ghosh: Developed chatbot functionality and assisted in background design.
-Rudranil Chowdhury: Assisted in background design and UI elements.
-Ayash Bera: Contributed to initial smart contract development, and overall team spirit rejuvenation.
+- Aditya Seth: Lead developer responsible for design, development, smart contracts, bug fixes, and system optimization.
+- Aditi Ghosh: Developed chatbot functionality and assisted in background design.
+- Rudranil Chowdhury: Assisted in background design and UI elements.
+- Ayash Bera: Contributed to initial smart contract development, and overall team spirit rejuvenation.
 
 ## 🎉 Acknowledgments
 
